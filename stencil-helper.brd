@@ -125,16 +125,16 @@
 <wire x1="0" y1="2" x2="0" y2="48" width="0" layer="20"/>
 <wire x1="0" y1="48" x2="2" y2="50" width="0" layer="20" curve="-90"/>
 <wire x1="2" y1="50" x2="23" y2="50" width="0" layer="20"/>
-<text x="3.254" y="10.3" size="1.016" layer="21" font="vector">by</text>
-<text x="9" y="12.538" size="2.1844" layer="21" font="vector">Stencil</text>
-<text x="9.5" y="9.292" size="2.1844" layer="21" font="vector">Helper</text>
-<text x="12.962" y="6.962" size="1.016" layer="21" font="vector">v1.2</text>
-<text x="13.826" y="0.99" size="1.016" layer="21" font="vector">nicegear.co/stencil-helper</text>
-<text x="4.746" y="10.3" size="1.016" layer="22" font="vector" rot="MR0">by</text>
-<text x="15.438" y="6.962" size="1.016" layer="22" font="vector" rot="MR0">v1.2</text>
-<text x="19.5" y="9.292" size="2.1844" layer="22" font="vector" rot="MR0">Helper</text>
-<text x="20" y="12.538" size="2.1844" layer="22" font="vector" rot="MR0">Stencil</text>
-<text x="12.826" y="1.81" size="1.016" layer="22" font="vector" rot="MR180">nicegear.co/stencil-helper</text>
+<text ratio="19" x="3.254" y="10.3" size="1.016" layer="21" font="vector">by</text>
+<text ratio="19" x="9" y="12.538" size="2.1844" layer="21" font="vector">Stencil</text>
+<text ratio="19" x="9.5" y="9.292" size="2.1844" layer="21" font="vector">Helper</text>
+<text ratio="19" x="12.962" y="6.962" size="1.016" layer="21" font="vector">v1.2</text>
+<text ratio="19" x="13.826" y="0.99" size="1.016" layer="21" font="vector">nicegear.co/stencil-helper</text>
+<text ratio="19" x="4.746" y="10.3" size="1.016" layer="22" font="vector" rot="MR0">by</text>
+<text ratio="19" x="15.438" y="6.962" size="1.016" layer="22" font="vector" rot="MR0">v1.2</text>
+<text ratio="19" x="19.5" y="9.292" size="2.1844" layer="22" font="vector" rot="MR0">Helper</text>
+<text ratio="19" x="20" y="12.538" size="2.1844" layer="22" font="vector" rot="MR0">Stencil</text>
+<text ratio="19" x="12.826" y="1.81" size="1.016" layer="22" font="vector" rot="MR180">nicegear.co/stencil-helper</text>
 <wire x1="23" y1="50" x2="23" y2="25" width="0" layer="20"/>
 <wire x1="23" y1="25" x2="22" y2="24" width="0" layer="20" curve="90"/>
 <wire x1="22" y1="24" x2="24" y2="22" width="0" layer="20" curve="90"/>
@@ -160,48 +160,48 @@
 <hole x="13" y="41" drill="2.5"/>
 <hole x="13" y="34" drill="2.5"/>
 <hole x="43" y="3" drill="2.5"/>
-<text x="25.4" y="20.6" size="1.778" layer="21" font="vector">A Side</text>
-<text x="22.4" y="34.4" size="1.778" layer="22" font="vector" rot="SMR270">B Side</text>
-<text x="4.8" y="47.4" size="1.27" layer="21" font="vector" ratio="10">5</text>
-<text x="14.8" y="46.4" size="1.27" layer="21" font="vector" ratio="10">4</text>
-<text x="4.8" y="41.4" size="1.27" layer="21" font="vector" ratio="10">9</text>
-<text x="4.8" y="34.4" size="1.27" layer="21" font="vector" ratio="10">2</text>
-<text x="14.8" y="40.4" size="1.27" layer="21" font="vector" ratio="10">8</text>
-<text x="14.8" y="33.6" size="1.27" layer="21" font="vector" ratio="10">1</text>
-<text x="4.8" y="28.4" size="1.27" layer="21" font="vector" ratio="10">6</text>
-<text x="14.8" y="25.4" size="1.27" layer="21" font="vector" ratio="10">3</text>
-<text x="14.8" y="19.4" size="1.27" layer="21" font="vector" ratio="10">7</text>
-<text x="4.8" y="22.4" size="1.27" layer="21" font="vector" ratio="10">0</text>
-<text x="24.8" y="14.4" size="1.27" layer="21" font="vector" ratio="10">2</text>
-<text x="24.8" y="10.4" size="1.27" layer="21" font="vector" ratio="10">8</text>
-<text x="34.8" y="18.4" size="1.27" layer="21" font="vector" ratio="10">6</text>
-<text x="44.8" y="17.6" size="1.27" layer="21" font="vector" ratio="10">5</text>
-<text x="44.8" y="11.4" size="1.27" layer="21" font="vector" ratio="10">9</text>
-<text x="44.8" y="6.4" size="1.27" layer="21" font="vector" ratio="10">4</text>
-<text x="44.8" y="2.4" size="1.27" layer="21" font="vector" ratio="10">0</text>
-<text x="34.8" y="9.6" size="1.27" layer="21" font="vector" ratio="10">7</text>
-<text x="34.8" y="5.6" size="1.27" layer="21" font="vector" ratio="10">3</text>
-<text x="24.8" y="3.4" size="1.27" layer="21" font="vector" ratio="10">1</text>
-<text x="16" y="47.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">4</text>
-<text x="16" y="41.2" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">8</text>
-<text x="6" y="48.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">5</text>
-<text x="6" y="42.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">9</text>
-<text x="6" y="35.2" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">2</text>
-<text x="16" y="34.2" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">1</text>
-<text x="6" y="29.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">6</text>
-<text x="16" y="26.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">3</text>
-<text x="6" y="23.2" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">0</text>
-<text x="16" y="20.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">7</text>
-<text x="26" y="15.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">2</text>
-<text x="36" y="19.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">6</text>
-<text x="46" y="18.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">5</text>
-<text x="26" y="11.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">8</text>
-<text x="26" y="4.2" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">1</text>
-<text x="36" y="10.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">7</text>
-<text x="36" y="6.2" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">3</text>
-<text x="46" y="12.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">9</text>
-<text x="46" y="7.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">4</text>
-<text x="46" y="3.4" size="1.27" layer="22" font="vector" ratio="10" rot="SMR270">0</text>
+<text x="25.4" y="20.6" size="1.778" layer="21" ratio="19" font="vector">A Side</text>
+<text x="22.4" y="34.4" size="1.778" layer="22" ratio="19" font="vector" rot="SMR270">B Side</text>
+<text x="4.8" y="47.4" size="1.27" layer="21" font="vector" ratio="19">5</text>
+<text x="14.8" y="46.4" size="1.27" layer="21" font="vector" ratio="19">4</text>
+<text x="4.8" y="41.4" size="1.27" layer="21" font="vector" ratio="19">9</text>
+<text x="4.8" y="34.4" size="1.27" layer="21" font="vector" ratio="19">2</text>
+<text x="14.8" y="40.4" size="1.27" layer="21" font="vector" ratio="19">8</text>
+<text x="14.8" y="33.6" size="1.27" layer="21" font="vector" ratio="19">1</text>
+<text x="4.8" y="28.4" size="1.27" layer="21" font="vector" ratio="19">6</text>
+<text x="14.8" y="25.4" size="1.27" layer="21" font="vector" ratio="19">3</text>
+<text x="14.8" y="19.4" size="1.27" layer="21" font="vector" ratio="19">7</text>
+<text x="4.8" y="22.4" size="1.27" layer="21" font="vector" ratio="19">0</text>
+<text x="24.8" y="14.4" size="1.27" layer="21" font="vector" ratio="19">2</text>
+<text x="24.8" y="10.4" size="1.27" layer="21" font="vector" ratio="19">8</text>
+<text x="34.8" y="18.4" size="1.27" layer="21" font="vector" ratio="19">6</text>
+<text x="44.8" y="17.6" size="1.27" layer="21" font="vector" ratio="19">5</text>
+<text x="44.8" y="11.4" size="1.27" layer="21" font="vector" ratio="19">9</text>
+<text x="44.8" y="6.4" size="1.27" layer="21" font="vector" ratio="19">4</text>
+<text x="44.8" y="2.4" size="1.27" layer="21" font="vector" ratio="19">0</text>
+<text x="34.8" y="9.6" size="1.27" layer="21" font="vector" ratio="19">7</text>
+<text x="34.8" y="5.6" size="1.27" layer="21" font="vector" ratio="19">3</text>
+<text x="24.8" y="3.4" size="1.27" layer="21" font="vector" ratio="19">1</text>
+<text x="16" y="47.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">4</text>
+<text x="16" y="41.2" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">8</text>
+<text x="6" y="48.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">5</text>
+<text x="6" y="42.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">9</text>
+<text x="6" y="35.2" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">2</text>
+<text x="16" y="34.2" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">1</text>
+<text x="6" y="29.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">6</text>
+<text x="16" y="26.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">3</text>
+<text x="6" y="23.2" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">0</text>
+<text x="16" y="20.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">7</text>
+<text x="26" y="15.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">2</text>
+<text x="36" y="19.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">6</text>
+<text x="46" y="18.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">5</text>
+<text x="26" y="11.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">8</text>
+<text x="26" y="4.2" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">1</text>
+<text x="36" y="10.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">7</text>
+<text x="36" y="6.2" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">3</text>
+<text x="46" y="12.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">9</text>
+<text x="46" y="7.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">4</text>
+<text x="46" y="3.4" size="1.27" layer="22" font="vector" ratio="19" rot="SMR270">0</text>
 </plain>
 <libraries>
 <library name="nice">
