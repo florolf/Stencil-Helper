@@ -1,10 +1,13 @@
-Stencil-Helper
-==============
+Stencil-Helper - JLCPCB version
+===============================
 Copyright 2013 nice technology Ltd  
 Website: <http://nicegear.co/stencil-helper>
 
 A little PCB designed to help you apply solder paste to a surface mount
 PCB using the stencil8 method.
+
+This is a variant of the original design with some tweaks to make it orderable
+at JLCPCB.
 
 LICENSE
 -------
